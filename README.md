@@ -2,6 +2,9 @@
 
 This HTML document represents a simple website for a creative design agency. It includes sections for showcasing the agency's services and a footer.
 
+![Uploading dev. com.JPG…]()
+
+
 ## Sections
 
 ### Logo
